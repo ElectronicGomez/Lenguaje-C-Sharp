@@ -1,0 +1,18 @@
+D:\EL68\semana2b\EjemploBitmap\EjemploBitmap\bin\Debug\EjemploBitmap.exe.config
+D:\EL68\semana2b\EjemploBitmap\EjemploBitmap\bin\Debug\EjemploBitmap.exe
+D:\EL68\semana2b\EjemploBitmap\EjemploBitmap\bin\Debug\EjemploBitmap.pdb
+D:\EL68\semana2b\EjemploBitmap\EjemploBitmap\obj\Debug\EjemploBitmap.csprojResolveAssemblyReference.cache
+D:\EL68\semana2b\EjemploBitmap\EjemploBitmap\obj\Debug\EjemploBitmap.Form1.resources
+D:\EL68\semana2b\EjemploBitmap\EjemploBitmap\obj\Debug\EjemploBitmap.Properties.Resources.resources
+D:\EL68\semana2b\EjemploBitmap\EjemploBitmap\obj\Debug\EjemploBitmap.csproj.GenerateResource.Cache
+D:\EL68\semana2b\EjemploBitmap\EjemploBitmap\obj\Debug\EjemploBitmap.exe
+D:\EL68\semana2b\EjemploBitmap\EjemploBitmap\obj\Debug\EjemploBitmap.pdb
+D:\Programación avanzada\Semana 2\semana2b\EjemploBitmap\EjemploBitmap\bin\Debug\EjemploBitmap.exe.config
+D:\Programación avanzada\Semana 2\semana2b\EjemploBitmap\EjemploBitmap\obj\Debug\EjemploBitmap.exe
+D:\Programación avanzada\Semana 2\semana2b\EjemploBitmap\EjemploBitmap\obj\Debug\EjemploBitmap.pdb
+D:\Programación avanzada\Semana 2\semana2b\EjemploBitmap\EjemploBitmap\bin\Debug\EjemploBitmap.exe
+D:\Programación avanzada\Semana 2\semana2b\EjemploBitmap\EjemploBitmap\bin\Debug\EjemploBitmap.pdb
+D:\Programación avanzada\Semana 2\semana2b\EjemploBitmap\EjemploBitmap\obj\Debug\EjemploBitmap.csprojResolveAssemblyReference.cache
+D:\Programación avanzada\Semana 2\semana2b\EjemploBitmap\EjemploBitmap\obj\Debug\EjemploBitmap.Form1.resources
+D:\Programación avanzada\Semana 2\semana2b\EjemploBitmap\EjemploBitmap\obj\Debug\EjemploBitmap.Properties.Resources.resources
+D:\Programación avanzada\Semana 2\semana2b\EjemploBitmap\EjemploBitmap\obj\Debug\EjemploBitmap.csproj.GenerateResource.Cache

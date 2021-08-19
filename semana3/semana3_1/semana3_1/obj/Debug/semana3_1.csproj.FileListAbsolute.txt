@@ -1,0 +1,18 @@
+D:\semana3_1\semana3_1\bin\Debug\semana3_1.exe.config
+D:\semana3_1\semana3_1\bin\Debug\semana3_1.exe
+D:\semana3_1\semana3_1\bin\Debug\semana3_1.pdb
+D:\semana3_1\semana3_1\obj\Debug\semana3_1.csprojResolveAssemblyReference.cache
+D:\semana3_1\semana3_1\obj\Debug\semana3_1.Form1.resources
+D:\semana3_1\semana3_1\obj\Debug\semana3_1.Properties.Resources.resources
+D:\semana3_1\semana3_1\obj\Debug\semana3_1.csproj.GenerateResource.Cache
+D:\semana3_1\semana3_1\obj\Debug\semana3_1.exe
+D:\semana3_1\semana3_1\obj\Debug\semana3_1.pdb
+D:\Programación avanzada\semana3\semana3_1\semana3_1\bin\Debug\semana3_1.exe.config
+D:\Programación avanzada\semana3\semana3_1\semana3_1\obj\Debug\semana3_1.exe
+D:\Programación avanzada\semana3\semana3_1\semana3_1\obj\Debug\semana3_1.pdb
+D:\Programación avanzada\semana3\semana3_1\semana3_1\bin\Debug\semana3_1.exe
+D:\Programación avanzada\semana3\semana3_1\semana3_1\bin\Debug\semana3_1.pdb
+D:\Programación avanzada\semana3\semana3_1\semana3_1\obj\Debug\semana3_1.csprojResolveAssemblyReference.cache
+D:\Programación avanzada\semana3\semana3_1\semana3_1\obj\Debug\semana3_1.Form1.resources
+D:\Programación avanzada\semana3\semana3_1\semana3_1\obj\Debug\semana3_1.Properties.Resources.resources
+D:\Programación avanzada\semana3\semana3_1\semana3_1\obj\Debug\semana3_1.csproj.GenerateResource.Cache
