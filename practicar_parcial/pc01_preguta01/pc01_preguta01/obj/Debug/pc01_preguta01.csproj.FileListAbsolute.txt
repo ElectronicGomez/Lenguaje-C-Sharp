@@ -1,0 +1,37 @@
+c:\users\u201517102\documents\visual studio 2015\Projects\pc01_preguta01\pc01_preguta01\bin\Debug\pc01_preguta01.exe.config
+c:\users\u201517102\documents\visual studio 2015\Projects\pc01_preguta01\pc01_preguta01\bin\Debug\pc01_preguta01.exe
+c:\users\u201517102\documents\visual studio 2015\Projects\pc01_preguta01\pc01_preguta01\bin\Debug\pc01_preguta01.pdb
+c:\users\u201517102\documents\visual studio 2015\Projects\pc01_preguta01\pc01_preguta01\bin\Debug\Joystick.dll
+c:\users\u201517102\documents\visual studio 2015\Projects\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.csprojResolveAssemblyReference.cache
+c:\users\u201517102\documents\visual studio 2015\Projects\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.Form1.resources
+c:\users\u201517102\documents\visual studio 2015\Projects\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.Properties.Resources.resources
+c:\users\u201517102\documents\visual studio 2015\Projects\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.csproj.GenerateResource.Cache
+c:\users\u201517102\documents\visual studio 2015\Projects\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.exe
+c:\users\u201517102\documents\visual studio 2015\Projects\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.pdb
+D:\pc01_preguta01\pc01_preguta01\bin\Debug\pc01_preguta01.exe.config
+D:\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.exe
+D:\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.pdb
+D:\pc01_preguta01\pc01_preguta01\bin\Debug\pc01_preguta01.exe
+D:\pc01_preguta01\pc01_preguta01\bin\Debug\pc01_preguta01.pdb
+D:\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.csprojResolveAssemblyReference.cache
+D:\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.Form1.resources
+D:\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.Properties.Resources.resources
+D:\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.csproj.GenerateResource.Cache
+D:\Programación avanzada\pc01_preguta01\pc01_preguta01\bin\Debug\pc01_preguta01.exe.config
+D:\Programación avanzada\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.exe
+D:\Programación avanzada\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.pdb
+D:\Programación avanzada\pc01_preguta01\pc01_preguta01\bin\Debug\pc01_preguta01.exe
+D:\Programación avanzada\pc01_preguta01\pc01_preguta01\bin\Debug\pc01_preguta01.pdb
+D:\Programación avanzada\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.csprojResolveAssemblyReference.cache
+D:\Programación avanzada\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.Form1.resources
+D:\Programación avanzada\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.Properties.Resources.resources
+D:\Programación avanzada\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.csproj.GenerateResource.Cache
+D:\Programación avanzada\practicar_parcial\pc01_preguta01\pc01_preguta01\bin\Debug\pc01_preguta01.exe.config
+D:\Programación avanzada\practicar_parcial\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.exe
+D:\Programación avanzada\practicar_parcial\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.pdb
+D:\Programación avanzada\practicar_parcial\pc01_preguta01\pc01_preguta01\bin\Debug\pc01_preguta01.exe
+D:\Programación avanzada\practicar_parcial\pc01_preguta01\pc01_preguta01\bin\Debug\pc01_preguta01.pdb
+D:\Programación avanzada\practicar_parcial\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.csprojResolveAssemblyReference.cache
+D:\Programación avanzada\practicar_parcial\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.Form1.resources
+D:\Programación avanzada\practicar_parcial\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.Properties.Resources.resources
+D:\Programación avanzada\practicar_parcial\pc01_preguta01\pc01_preguta01\obj\Debug\pc01_preguta01.csproj.GenerateResource.Cache

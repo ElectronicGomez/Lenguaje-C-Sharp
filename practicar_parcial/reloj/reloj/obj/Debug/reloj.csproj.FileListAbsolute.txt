@@ -1,0 +1,9 @@
+D:\Programación avanzada\practicar_parcial\reloj\reloj\bin\Debug\reloj.exe.config
+D:\Programación avanzada\practicar_parcial\reloj\reloj\bin\Debug\reloj.exe
+D:\Programación avanzada\practicar_parcial\reloj\reloj\bin\Debug\reloj.pdb
+D:\Programación avanzada\practicar_parcial\reloj\reloj\obj\Debug\reloj.csprojResolveAssemblyReference.cache
+D:\Programación avanzada\practicar_parcial\reloj\reloj\obj\Debug\reloj.Form1.resources
+D:\Programación avanzada\practicar_parcial\reloj\reloj\obj\Debug\reloj.Properties.Resources.resources
+D:\Programación avanzada\practicar_parcial\reloj\reloj\obj\Debug\reloj.csproj.GenerateResource.Cache
+D:\Programación avanzada\practicar_parcial\reloj\reloj\obj\Debug\reloj.exe
+D:\Programación avanzada\practicar_parcial\reloj\reloj\obj\Debug\reloj.pdb
