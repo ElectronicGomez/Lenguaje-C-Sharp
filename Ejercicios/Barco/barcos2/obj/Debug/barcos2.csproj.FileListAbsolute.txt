@@ -1,0 +1,45 @@
+F:\PROGRA AVANZADA\tarea1 seamana1 barcos\barcos2\barcos2\bin\Debug\barcos2.exe.config
+F:\PROGRA AVANZADA\tarea1 seamana1 barcos\barcos2\barcos2\bin\Debug\barcos2.exe
+F:\PROGRA AVANZADA\tarea1 seamana1 barcos\barcos2\barcos2\bin\Debug\barcos2.pdb
+F:\PROGRA AVANZADA\tarea1 seamana1 barcos\barcos2\barcos2\obj\Debug\barcos2.csprojResolveAssemblyReference.cache
+F:\PROGRA AVANZADA\tarea1 seamana1 barcos\barcos2\barcos2\obj\Debug\barcos2.Form1.resources
+F:\PROGRA AVANZADA\tarea1 seamana1 barcos\barcos2\barcos2\obj\Debug\barcos2.Properties.Resources.resources
+F:\PROGRA AVANZADA\tarea1 seamana1 barcos\barcos2\barcos2\obj\Debug\barcos2.csproj.GenerateResource.Cache
+F:\PROGRA AVANZADA\tarea1 seamana1 barcos\barcos2\barcos2\obj\Debug\barcos2.exe
+F:\PROGRA AVANZADA\tarea1 seamana1 barcos\barcos2\barcos2\obj\Debug\barcos2.pdb
+C:\Users\Electronica\Desktop\barcos2 - Copy\barcos2\bin\Debug\barcos2.exe.config
+C:\Users\Electronica\Desktop\barcos2 - Copy\barcos2\obj\Debug\barcos2.exe
+C:\Users\Electronica\Desktop\barcos2 - Copy\barcos2\obj\Debug\barcos2.pdb
+C:\Users\Electronica\Desktop\barcos2 - Copy\barcos2\bin\Debug\barcos2.exe
+C:\Users\Electronica\Desktop\barcos2 - Copy\barcos2\bin\Debug\barcos2.pdb
+C:\Users\Electronica\Desktop\barcos2 - Copy\barcos2\obj\Debug\barcos2.csprojResolveAssemblyReference.cache
+C:\Users\Electronica\Desktop\barcos2 - Copy\barcos2\obj\Debug\barcos2.Form1.resources
+C:\Users\Electronica\Desktop\barcos2 - Copy\barcos2\obj\Debug\barcos2.Properties.Resources.resources
+C:\Users\Electronica\Desktop\barcos2 - Copy\barcos2\obj\Debug\barcos2.csproj.GenerateResource.Cache
+C:\Users\Alex\Downloads\Barco\barcos2\bin\Debug\barcos2.exe.config
+C:\Users\Alex\Downloads\Barco\barcos2\obj\Debug\barcos2.exe
+C:\Users\Alex\Downloads\Barco\barcos2\obj\Debug\barcos2.pdb
+C:\Users\Alex\Downloads\Barco\barcos2\bin\Debug\barcos2.exe
+C:\Users\Alex\Downloads\Barco\barcos2\bin\Debug\barcos2.pdb
+C:\Users\Alex\Downloads\Barco\barcos2\obj\Debug\barcos2.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Downloads\Barco\barcos2\obj\Debug\barcos2.Form1.resources
+C:\Users\Alex\Downloads\Barco\barcos2\obj\Debug\barcos2.Properties.Resources.resources
+C:\Users\Alex\Downloads\Barco\barcos2\obj\Debug\barcos2.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\Barco\barcos2\bin\Debug\barcos2.exe.config
+C:\Users\USUARIO\Desktop\Barco\barcos2\obj\Debug\barcos2.exe
+C:\Users\USUARIO\Desktop\Barco\barcos2\obj\Debug\barcos2.pdb
+C:\Users\USUARIO\Desktop\Barco\barcos2\bin\Debug\barcos2.exe
+C:\Users\USUARIO\Desktop\Barco\barcos2\bin\Debug\barcos2.pdb
+C:\Users\USUARIO\Desktop\Barco\barcos2\obj\Debug\barcos2.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Barco\barcos2\obj\Debug\barcos2.Form1.resources
+C:\Users\USUARIO\Desktop\Barco\barcos2\obj\Debug\barcos2.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Barco\barcos2\obj\Debug\barcos2.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\Nueva carpeta\Barco\barcos2\bin\Debug\barcos2.exe.config
+C:\Users\USUARIO\Desktop\Nueva carpeta\Barco\barcos2\obj\Debug\barcos2.exe
+C:\Users\USUARIO\Desktop\Nueva carpeta\Barco\barcos2\obj\Debug\barcos2.pdb
+D:\05.09\Barco\barcos2\bin\Debug\barcos2.exe.config
+D:\05.09\Barco\barcos2\obj\Debug\barcos2.exe
+D:\05.09\Barco\barcos2\obj\Debug\barcos2.pdb
+D:\05.09\Barco\barcos2\obj\Debug\barcos2.csprojResolveAssemblyReference.cache
+D:\05.09\Barco\barcos2\obj\Debug\barcos2.Form1.resources
+D:\05.09\Barco\barcos2\obj\Debug\barcos2.csproj.GenerateResource.Cache
