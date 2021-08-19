@@ -1,0 +1,10 @@
+D:\Programación avanzada\pc_1\PC_1\PC_1\bin\Debug\PC_1.exe.config
+D:\Programación avanzada\pc_1\PC_1\PC_1\bin\Debug\PC_1.exe
+D:\Programación avanzada\pc_1\PC_1\PC_1\bin\Debug\PC_1.pdb
+D:\Programación avanzada\pc_1\PC_1\PC_1\bin\Debug\Joystick.dll
+D:\Programación avanzada\pc_1\PC_1\PC_1\obj\Debug\PC_1.csprojResolveAssemblyReference.cache
+D:\Programación avanzada\pc_1\PC_1\PC_1\obj\Debug\PC_1.Form1.resources
+D:\Programación avanzada\pc_1\PC_1\PC_1\obj\Debug\PC_1.Properties.Resources.resources
+D:\Programación avanzada\pc_1\PC_1\PC_1\obj\Debug\PC_1.csproj.GenerateResource.Cache
+D:\Programación avanzada\pc_1\PC_1\PC_1\obj\Debug\PC_1.exe
+D:\Programación avanzada\pc_1\PC_1\PC_1\obj\Debug\PC_1.pdb
