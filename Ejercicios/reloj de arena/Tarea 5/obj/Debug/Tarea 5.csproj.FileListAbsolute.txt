@@ -1,0 +1,45 @@
+C:\Users\Brian\Documents\Visual Estudio Projects\Tarea 5\Tarea 5\bin\Debug\Tarea 5.exe.config
+C:\Users\Brian\Documents\Visual Estudio Projects\Tarea 5\Tarea 5\bin\Debug\Tarea 5.exe
+C:\Users\Brian\Documents\Visual Estudio Projects\Tarea 5\Tarea 5\bin\Debug\Tarea 5.pdb
+C:\Users\Brian\Documents\Visual Estudio Projects\Tarea 5\Tarea 5\obj\Debug\Tarea 5.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Estudio Projects\Tarea 5\Tarea 5\obj\Debug\Tarea_5.Form1.resources
+C:\Users\Brian\Documents\Visual Estudio Projects\Tarea 5\Tarea 5\obj\Debug\Tarea_5.Properties.Resources.resources
+C:\Users\Brian\Documents\Visual Estudio Projects\Tarea 5\Tarea 5\obj\Debug\Tarea 5.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\Visual Estudio Projects\Tarea 5\Tarea 5\obj\Debug\Tarea 5.exe
+C:\Users\Brian\Documents\Visual Estudio Projects\Tarea 5\Tarea 5\obj\Debug\Tarea 5.pdb
+C:\Users\KarinaMilagros\Documents\Simita\Tarea 5\Tarea 5\bin\Debug\Tarea 5.exe.config
+C:\Users\KarinaMilagros\Documents\Simita\Tarea 5\Tarea 5\obj\Debug\Tarea 5.exe
+C:\Users\KarinaMilagros\Documents\Simita\Tarea 5\Tarea 5\obj\Debug\Tarea 5.pdb
+C:\Users\KarinaMilagros\Documents\Simita\Tarea 5\Tarea 5\bin\Debug\Tarea 5.exe
+C:\Users\KarinaMilagros\Documents\Simita\Tarea 5\Tarea 5\bin\Debug\Tarea 5.pdb
+C:\Users\KarinaMilagros\Documents\Simita\Tarea 5\Tarea 5\obj\Debug\Tarea 5.csprojResolveAssemblyReference.cache
+C:\Users\KarinaMilagros\Documents\Simita\Tarea 5\Tarea 5\obj\Debug\Tarea_5.Form1.resources
+C:\Users\KarinaMilagros\Documents\Simita\Tarea 5\Tarea 5\obj\Debug\Tarea_5.Properties.Resources.resources
+C:\Users\KarinaMilagros\Documents\Simita\Tarea 5\Tarea 5\obj\Debug\Tarea 5.csproj.GenerateResource.Cache
+C:\Users\jorge\Desktop\Tarea 5\Tarea 5\bin\Debug\Tarea 5.exe.config
+C:\Users\jorge\Desktop\Tarea 5\Tarea 5\obj\Debug\Tarea 5.exe
+C:\Users\jorge\Desktop\Tarea 5\Tarea 5\obj\Debug\Tarea 5.pdb
+C:\Users\jorge\Desktop\Tarea 5\Tarea 5\bin\Debug\Tarea 5.exe
+C:\Users\jorge\Desktop\Tarea 5\Tarea 5\bin\Debug\Tarea 5.pdb
+C:\Users\jorge\Desktop\Tarea 5\Tarea 5\obj\Debug\Tarea 5.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Desktop\Tarea 5\Tarea 5\obj\Debug\Tarea_5.Form1.resources
+C:\Users\jorge\Desktop\Tarea 5\Tarea 5\obj\Debug\Tarea_5.Properties.Resources.resources
+C:\Users\jorge\Desktop\Tarea 5\Tarea 5\obj\Debug\Tarea 5.csproj.GenerateResource.Cache
+C:\Users\jorge\Desktop\reloj de arena\Tarea 5\bin\Debug\Tarea 5.exe.config
+C:\Users\jorge\Desktop\reloj de arena\Tarea 5\obj\Debug\Tarea 5.exe
+C:\Users\jorge\Desktop\reloj de arena\Tarea 5\obj\Debug\Tarea 5.pdb
+C:\Users\jorge\Desktop\reloj de arena\Tarea 5\bin\Debug\Tarea 5.exe
+C:\Users\jorge\Desktop\reloj de arena\Tarea 5\bin\Debug\Tarea 5.pdb
+C:\Users\jorge\Desktop\reloj de arena\Tarea 5\obj\Debug\Tarea 5.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Desktop\reloj de arena\Tarea 5\obj\Debug\Tarea_5.Form1.resources
+C:\Users\jorge\Desktop\reloj de arena\Tarea 5\obj\Debug\Tarea_5.Properties.Resources.resources
+C:\Users\jorge\Desktop\reloj de arena\Tarea 5\obj\Debug\Tarea 5.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\reloj de arena\Tarea 5\bin\Debug\Tarea 5.exe.config
+C:\Users\ASUS\Desktop\reloj de arena\Tarea 5\obj\Debug\Tarea 5.exe
+C:\Users\ASUS\Desktop\reloj de arena\Tarea 5\obj\Debug\Tarea 5.pdb
+C:\Users\ASUS\Desktop\reloj de arena\Tarea 5\bin\Debug\Tarea 5.exe
+C:\Users\ASUS\Desktop\reloj de arena\Tarea 5\bin\Debug\Tarea 5.pdb
+C:\Users\ASUS\Desktop\reloj de arena\Tarea 5\obj\Debug\Tarea 5.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\reloj de arena\Tarea 5\obj\Debug\Tarea_5.Form1.resources
+C:\Users\ASUS\Desktop\reloj de arena\Tarea 5\obj\Debug\Tarea_5.Properties.Resources.resources
+C:\Users\ASUS\Desktop\reloj de arena\Tarea 5\obj\Debug\Tarea 5.csproj.GenerateResource.Cache
