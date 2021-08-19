@@ -1,0 +1,27 @@
+C:\Users\luisa\Desktop\Practica Calificada 1\Practica Calificada 1\bin\Debug\Practica Calificada 1.exe.config
+C:\Users\luisa\Desktop\Practica Calificada 1\Practica Calificada 1\obj\Debug\Practica_Calificada_1.Form1.resources
+C:\Users\luisa\Desktop\Practica Calificada 1\Practica Calificada 1\obj\Debug\Practica_Calificada_1.Properties.Resources.resources
+C:\Users\luisa\Desktop\Practica Calificada 1\Practica Calificada 1\obj\Debug\Practica Calificada 1.csproj.GenerateResource.Cache
+C:\Users\luisa\Desktop\Practica Calificada 1\Practica Calificada 1\bin\Debug\Practica Calificada 1.exe
+C:\Users\luisa\Desktop\Practica Calificada 1\Practica Calificada 1\bin\Debug\Practica Calificada 1.pdb
+C:\Users\luisa\Desktop\Practica Calificada 1\Practica Calificada 1\obj\Debug\Practica Calificada 1.csprojResolveAssemblyReference.cache
+C:\Users\luisa\Desktop\Practica Calificada 1\Practica Calificada 1\obj\Debug\Practica Calificada 1.exe
+C:\Users\luisa\Desktop\Practica Calificada 1\Practica Calificada 1\obj\Debug\Practica Calificada 1.pdb
+F:\Practica Calificada 1\Practica Calificada 1\bin\Debug\Practica Calificada 1.exe.config
+F:\Practica Calificada 1\Practica Calificada 1\obj\Debug\Practica Calificada 1.exe
+F:\Practica Calificada 1\Practica Calificada 1\obj\Debug\Practica Calificada 1.pdb
+F:\Practica Calificada 1\Practica Calificada 1\bin\Debug\Practica Calificada 1.exe
+F:\Practica Calificada 1\Practica Calificada 1\bin\Debug\Practica Calificada 1.pdb
+F:\Practica Calificada 1\Practica Calificada 1\obj\Debug\Practica Calificada 1.csprojResolveAssemblyReference.cache
+F:\Practica Calificada 1\Practica Calificada 1\obj\Debug\Practica_Calificada_1.Form1.resources
+F:\Practica Calificada 1\Practica Calificada 1\obj\Debug\Practica_Calificada_1.Properties.Resources.resources
+F:\Practica Calificada 1\Practica Calificada 1\obj\Debug\Practica Calificada 1.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Practica Calificada 1\Practica Calificada 1\bin\Debug\Practica Calificada 1.exe.config
+C:\Users\ASUS\Desktop\Practica Calificada 1\Practica Calificada 1\obj\Debug\Practica Calificada 1.exe
+C:\Users\ASUS\Desktop\Practica Calificada 1\Practica Calificada 1\obj\Debug\Practica Calificada 1.pdb
+C:\Users\ASUS\Desktop\Practica Calificada 1\Practica Calificada 1\bin\Debug\Practica Calificada 1.exe
+C:\Users\ASUS\Desktop\Practica Calificada 1\Practica Calificada 1\bin\Debug\Practica Calificada 1.pdb
+C:\Users\ASUS\Desktop\Practica Calificada 1\Practica Calificada 1\obj\Debug\Practica Calificada 1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Practica Calificada 1\Practica Calificada 1\obj\Debug\Practica_Calificada_1.Form1.resources
+C:\Users\ASUS\Desktop\Practica Calificada 1\Practica Calificada 1\obj\Debug\Practica_Calificada_1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Practica Calificada 1\Practica Calificada 1\obj\Debug\Practica Calificada 1.csproj.GenerateResource.Cache
