@@ -1,0 +1,28 @@
+D:\C#\s6sa\claseDLL6a\claseDLL6a\bin\Debug\claseDLL6a.exe.config
+D:\C#\s6sa\claseDLL6a\claseDLL6a\obj\Debug\claseDLL6a.csprojResolveAssemblyReference.cache
+D:\C#\s6sa\claseDLL6a\claseDLL6a\obj\Debug\claseDLL6a.Form1.resources
+D:\C#\s6sa\claseDLL6a\claseDLL6a\obj\Debug\claseDLL6a.Properties.Resources.resources
+D:\C#\s6sa\claseDLL6a\claseDLL6a\obj\Debug\claseDLL6a.csproj.GenerateResource.Cache
+D:\C#\s6sa\claseDLL6a\claseDLL6a\bin\Debug\claseDLL6a.exe
+D:\C#\s6sa\claseDLL6a\claseDLL6a\bin\Debug\claseDLL6a.pdb
+D:\C#\s6sa\claseDLL6a\claseDLL6a\obj\Debug\claseDLL6a.exe
+D:\C#\s6sa\claseDLL6a\claseDLL6a\obj\Debug\claseDLL6a.pdb
+D:\C#\s6sa\claseDLL6a\claseDLL6a\obj\Debug\claseDLL6a.Form2.resources
+D:\C#\s6sa\claseDLL6a\claseDLL6a\obj\Debug\claseDLL6a.FormMenu.resources
+D:\C#\s6sa\claseDLL6a\claseDLL6a\bin\Debug\libreriaEL67.dll
+D:\C#\s6sa\claseDLL6a\claseDLL6a\bin\Debug\libreriaEL67.pdb
+D:\C#\s6sa\claseDLL6a\claseDLL6a\obj\Debug\claseDLL6a.Form3.resources
+D:\Programación avanzada\s6\claseDLL6a\claseDLL6a\bin\Debug\claseDLL6a.exe.config
+D:\Programación avanzada\s6\claseDLL6a\claseDLL6a\obj\Debug\claseDLL6a.exe
+D:\Programación avanzada\s6\claseDLL6a\claseDLL6a\obj\Debug\claseDLL6a.pdb
+D:\Programación avanzada\s6\claseDLL6a\claseDLL6a\bin\Debug\claseDLL6a.exe
+D:\Programación avanzada\s6\claseDLL6a\claseDLL6a\bin\Debug\claseDLL6a.pdb
+D:\Programación avanzada\s6\claseDLL6a\claseDLL6a\bin\Debug\libreriaEL67.dll
+D:\Programación avanzada\s6\claseDLL6a\claseDLL6a\bin\Debug\libreriaEL67.pdb
+D:\Programación avanzada\s6\claseDLL6a\claseDLL6a\obj\Debug\claseDLL6a.csprojResolveAssemblyReference.cache
+D:\Programación avanzada\s6\claseDLL6a\claseDLL6a\obj\Debug\claseDLL6a.Form1.resources
+D:\Programación avanzada\s6\claseDLL6a\claseDLL6a\obj\Debug\claseDLL6a.Form2.resources
+D:\Programación avanzada\s6\claseDLL6a\claseDLL6a\obj\Debug\claseDLL6a.Form3.resources
+D:\Programación avanzada\s6\claseDLL6a\claseDLL6a\obj\Debug\claseDLL6a.FormMenu.resources
+D:\Programación avanzada\s6\claseDLL6a\claseDLL6a\obj\Debug\claseDLL6a.Properties.Resources.resources
+D:\Programación avanzada\s6\claseDLL6a\claseDLL6a\obj\Debug\claseDLL6a.csproj.GenerateResource.Cache
